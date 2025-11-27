@@ -1,5 +1,5 @@
-# NAME: JANANI V
-# REG NO: 212223060099
+# NAME: TEJASHREE J
+# REG NO: 212223060285
 # Design-of-Motion-Activated-Security-System-using-PIR-Sensor-in-Tinkercad
 
 **AIM:** 
